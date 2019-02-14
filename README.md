@@ -4,11 +4,11 @@ The script checks for the presence of PTR zones and their recordings against dir
 
 For the script to work, you must specify a forward zone in `$Zone` variable.
 
-Important: default mask for reverse zone is /24 (255.255.255.0)
+Important: default mask for reverse zone creation is /24 (255.255.255.0)
 
 ### RUS
 Скрипт проверяет наличие птр зон и их записи относительно прямых зон и добавляет или изменяет их на актуальные.
 
 Для работы скрипта необходимо указать прямую зону в переменной `$Zone`.
 
-Важно: по умолчанию маска для обратной зоны /24 (255.255.255.0)
+Важно: по умолчанию маска для создания обратной зоны /24 (255.255.255.0)
